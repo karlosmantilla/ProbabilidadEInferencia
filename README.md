@@ -10,9 +10,9 @@ Se lanza 3 veces una moneda. Describir el espacio muestral, calcular la media, l
 #### Solución
 
 Se definen los posibles resultado $(x=Cara)$:
-$$
+\[
 S(x) = {0,1,2,3}
-$$
+\]
 
 Y el Espacio Muestral:
 $$
