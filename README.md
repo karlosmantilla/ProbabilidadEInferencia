@@ -21,7 +21,7 @@ $$
 
 Ahora, ¿Cómo queda la frecuencia?
 
-| $x|S(x)$ | $fX(x)=P(X=x)$ |
+| $x S(x)$ | $fX(x)=P(X=x)$ |
 |----------|----------------|
 |    $0$   |   $\frac{1}{8}$|
 |    $1$   |   $\frac{3}{8}$|
